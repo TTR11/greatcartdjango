@@ -1,0 +1,15 @@
+DJANGOADMIN
+Michalis11
+
+#superuser
+toteras1994@gmail.com
+djangoadmin
+michalis
+kyriacou
+gamoprixti1
+
+
+Open Virtual Enviroment
+$ python -m venv env
+source env/Scripts/activate
+
